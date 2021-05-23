@@ -1,2 +1,2 @@
-var data = 0;
+var data111sss = 0;
 console.log("Hello");
